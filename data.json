@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "first_name": "chu",
+      "last_name": "ka",
+      "dob": "12/09/2000",
+      "account_number": 4390871254,
+      "pin": "0000",
+      "balance": 10000.0,
+      "email": "djhgh@gmail.com"
+    },
+    {
+      "first_name": "key",
+      "last_name": "vin",
+      "dob": "12/09/2000",
+      "account_number": 2249304636,
+      "pin": "1122",
+      "balance": 160.0,
+      "email": "kay@gmail.com"
+    },
+    {
+      "first_name": "chic",
+      "last_name": "leo",
+      "dob": "12/11/2000",
+      "account_number": 9304590067,
+      "pin": "1234",
+      "balance": 2100.0,
+      "email": "leo@gmail.com"
+    }
+  ],
+  "Agents": [
+    {
+      "first_name": "kay",
+      "last_name": "lin",
+      "email": "lin@bank.com",
+      "pin": "1111"
+    },
+    {
+      "first_name": "chu",
+      "last_name": "kay",
+      "email": "lie@bank.com",
+      "pin": "1234"
+    },
+    {
+      "first_name": "king",
+      "last_name": "jay",
+      "email": "jay@bank.com",
+      "pin": "1234"
+    }
+  ]
+}
